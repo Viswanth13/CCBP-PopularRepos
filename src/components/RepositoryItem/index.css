@@ -1,0 +1,29 @@
+.item-heading {
+  font-size: 14px;
+  color: #e73959;
+}
+
+.repository-image {
+  height: 100px;
+  width: 100px;
+}
+
+.star-fork-issue-box {
+  display: flex;
+  justify-content: center;
+}
+
+.star-fork-issues-image {
+  height: 20px;
+  width: 20px;
+}
+
+.list-item {
+  list-style-type: none;
+  background-color: #f8f8ff;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 10px;
+}
